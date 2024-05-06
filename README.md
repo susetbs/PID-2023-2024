@@ -1,5 +1,5 @@
 # Introducción
-Repositorio de documental correspondiente al PID "" de la Universidad de Valladolid, curso 2023-2024.
+Repositorio de documental correspondiente al PID "Desarrollo de nuevos recursos docentes de Geología y Cristalografía basados en la impresión 3D" de la Universidad de Valladolid, curso 2023-2024.
 
 ## Modelos 3D recopilados
 En el archivo [Repositorio Modelos 3D.xlsx](Repositorio%20Modelos%203D.xlsx) pueden encontrarse los modelos que se han ido recopilando con la siguiente información:
