@@ -1,6 +1,6 @@
 # Introducción
-## Prueba 2.2
-## Prueba 2.1
+Repositorio de documental correspondiente al PID "" de la Universidad de Valladolid, curso 2023-2024.
 
-### Prueba 3
-https://www.thingiverse.com/thing:2302217
+## Modelos 3D recopilados
+En el archivo Repositorio Modelos 3D.xlsx pueden encontrarse los 
+
